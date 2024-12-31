@@ -1,0 +1,13 @@
+body{
+    background: rgb(151,207,190);
+background: linear-gradient(90deg, rgba(151,207,190,1) 27%, rgba(209,219,204,1) 46%, rgba(255,228,215,1) 69%);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    padding-top: 50px;
+}
+button{
+    border: 1px solid rgb(158, 165, 165);
+    padding: 10px;
+    background-color: rgb(158, 165, 165);
+}
